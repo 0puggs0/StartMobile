@@ -1,0 +1,19 @@
+{
+  "postsList": "Posts List",
+  "postDetails": "Post details",
+  "heading": "Heading",
+  "content": "Content",
+  "search_placeholder": "Search posts...",
+  "email_required": "Email required",
+  "password_required": "Password required",
+  "email": "Email",
+  "password": "Password",
+  "enter_email": "Enter email",
+  "enter_password": "Enter password",
+  "authorization": "Authorization",
+  "do_authorization": "Login",
+  "wrong_email": "Wrong email",
+  "wrong_password": "Min 6 characters",
+  "error": "Error",
+  "error_login_or_password": "Incorrect login or password"
+}

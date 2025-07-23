@@ -79,6 +79,7 @@ android {
 
     namespace "com.startmobile"
     defaultConfig {
+        
         applicationId "com.startmobile"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion

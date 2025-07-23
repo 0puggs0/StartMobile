@@ -1,0 +1,19 @@
+{
+  "postsList": "Список постов",
+  "PostDetails": "Подробности поста",
+  "heading": "Заголовок",
+  "content": "Содержание",
+  "search_placeholder": "Поиск по постам...",
+  "email_required": "Email обязателен",
+  "password_required": "Password обязателен",
+  "email": "Email",
+  "password": "Пароль",
+  "enter_email": "Введите email",
+  "enter_password": "Введите password",
+  "authorization": "Авторизация",
+  "do_authorization": "Авторизоваться",
+  "wrong_email": "Некорректный email",
+  "wrong_password": "Минимум 6 символов",
+  "error": "Ошибка",
+  "error_login_or_password": "Неверный логин или пароль"
+}
