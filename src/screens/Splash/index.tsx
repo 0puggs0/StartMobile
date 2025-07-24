@@ -10,7 +10,6 @@ export default function Splash() {
     useNavigation<NavigationProp<RootStackParamList, 'Splash'>>();
   useEffect(() => {
     (async () => {
-      Storage.clearAll();
       const isAuth = Storage.get('isAuth');
       const currentLang = Storage.get('appLanguage');
       if (!isAuth) {
